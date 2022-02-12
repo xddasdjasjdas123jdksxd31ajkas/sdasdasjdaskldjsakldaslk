@@ -1,0 +1,8 @@
+{
+  "port": 31,
+  "serverID": "942088253761286164",
+  "secret": "SzRAXDGmPjfp-5VGoh7a1Mns-zxdtZJa",
+  "mongoUri": "mongodb+srv://delidiscord:baran2323@cluster0.g5hcg.mongodb.net/carmendata?retryWrites=true&w=majority",
+  "redirect_url": "https://helper-cats.com/api/auth/discord/redirect",
+  "token": "OTQyMTA3MjU3NTU3MDk0NDAx.YgfrwQ.1nL9QKZOzu-i397sI1nIrOn9mJk"
+}

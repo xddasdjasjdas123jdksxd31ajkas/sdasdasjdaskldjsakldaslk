@@ -1,0 +1,176 @@
+{
+    "name": "denemee",
+    "verificationLevel": "NONE",
+    "explicitContentFilter": "DISABLED",
+    "defaultMessageNotifications": "ALL_MESSAGES",
+    "afk": null,
+    "widget": {
+        "channel": null
+    },
+    "channels": {
+        "categories": [
+            {
+                "name": "Metin Kanalları",
+                "permissions": [],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "genel",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Metin Kanalları",
+                        "topic": null,
+                        "permissions": [],
+                        "messages": [
+                            {
+                                "username": "denemee",
+                                "avatar": "https://cdn.discordapp.com/avatars/942107257557094401/08007013202550c3c4e253dc0519167b.webp",
+                                "content": "جار التحميل...",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "xFixxy",
+                                "avatar": "https://cdn.discordapp.com/embed/avatars/1.png",
+                                "content": "!create",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "denemee",
+                                "avatar": "https://cdn.discordapp.com/avatars/942107257557094401/08007013202550c3c4e253dc0519167b.webp",
+                                "content": "Not restored.",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "xFixxy",
+                                "avatar": "https://cdn.discordapp.com/embed/avatars/1.png",
+                                "content": "!restore",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "denemee",
+                                "avatar": "https://cdn.discordapp.com/avatars/942107257557094401/08007013202550c3c4e253dc0519167b.webp",
+                                "content": "Not restored.",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "xFixxy",
+                                "avatar": "https://cdn.discordapp.com/embed/avatars/1.png",
+                                "content": "!restore",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "denemee",
+                                "avatar": "https://cdn.discordapp.com/avatars/942107257557094401/08007013202550c3c4e253dc0519167b.webp",
+                                "content": "Not restored.",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "xFixxy",
+                                "avatar": "https://cdn.discordapp.com/embed/avatars/1.png",
+                                "content": "!restore",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "denemee",
+                                "avatar": "https://cdn.discordapp.com/avatars/942107257557094401/08007013202550c3c4e253dc0519167b.webp",
+                                "content": "",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "uwusss",
+                                "avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+                                "content": "",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "uwusss",
+                                "avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+                                "content": "",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "uwusss",
+                                "avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+                                "content": "",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Mer$",
+                                "avatar": "https://cdn.discordapp.com/avatars/795663013415878716/1a99e7fb6f6eb0440088ec5ad349a096.webp",
+                                "content": "",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "System -",
+                                "avatar": "https://cdn.discordapp.com/avatars/936145588066582588/a_ccb2bee7b27693da4b887c4b98fa6ea8.webp",
+                                "content": "",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            }
+                        ],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "Ses Kanalları",
+                "permissions": [],
+                "children": [
+                    {
+                        "type": "GUILD_VOICE",
+                        "name": "Genel",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "Ses Kanalları",
+                        "permissions": []
+                    }
+                ]
+            }
+        ],
+        "others": []
+    },
+    "roles": [
+        {
+            "name": "@everyone",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "1071698660929",
+            "mentionable": false,
+            "position": 0,
+            "isEveryone": true
+        }
+    ],
+    "bans": [],
+    "emojis": [],
+    "createdTimestamp": 1644694500704,
+    "guildID": "942088253761286164",
+    "id": "942141764083515392"
+}
